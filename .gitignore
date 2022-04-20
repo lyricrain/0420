@@ -3,7 +3,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse,maven
 
 ### Eclipse ###
-build/
 .metadata
 bin/
 tmp/
